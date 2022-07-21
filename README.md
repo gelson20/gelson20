@@ -5,8 +5,4 @@ segunda atualizaçao versão 3.0
 
 terceira atualização versão 4.0
 
-
-<!---
-gelson20/gelson20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+quarta atualização versão 5.09
